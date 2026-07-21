@@ -75,7 +75,7 @@ GET /api/communes/:code/villages
 
 ## Known open questions
 
-Some areas require a team decision, tracked in [`DECISIONS.md`](./DECISIONS.md):
+Some areas require a team decision, tracked in [`DECISIONS.md`](https://github.com/mande-open-source-network/start-from-here/blob/main/DECISIONS.md):
 - Discrepancy between INSTAT and OSM on the total number of communes (815 vs 819)
 - Bamako's specific administrative status (district vs region)
 
